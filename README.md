@@ -13,5 +13,5 @@ The setup involves the following steps:
 5. **Update Status**: Jenkins updates the build status on GitHub, providing visibility into the automated process.
 6. **Notification**: Users are notified of the build status through GitHub notifications.
 
-## Getting Started
+
 
